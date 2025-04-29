@@ -10,8 +10,8 @@ Indonesia’s National Public Service Complaint Management System (SP4N-LAPOR!),
 
 - Public complaints during April 2020, especially related to COVID-19.
 - The main topic highlighted is Social Assistance Programs (bansos).
-- discusses the sharp increase in complaints due to COVID-19 impacts (job loss, income reduction, economic hardship).
-- explains how social assistance programs were implemented, the problems reported by citizens (such as mistargeted aid and program delays), and how the government tried to accelerate complaint handling.
+- Discusses the sharp increase in complaints due to COVID-19 impacts (job loss, income reduction, economic hardship).
+- Explains how social assistance programs were implemented, the problems reported by citizens (such as mistargeted aid and program delays), and how the government tried to accelerate complaint handling.
 - Outlines new features and strategies to improve the complaint system during the pandemic.
 
 ---
